@@ -1,8 +1,8 @@
 
-## Abou![Ikedzi2b5OzuHEuq](https://github.com/akshatra/Event-Driven-Cloud-Optimized-System-Design-CCSE-Conference-Paper/assets/47113617/5478c245-0237-4731-9046-5541b5da5068)
+![Ikedzi2b5OzuHEuq](https://github.com/akshatra/Event-Driven-Cloud-Optimized-System-Design-CCSE-Conference-Paper/assets/47113617/5478c245-0237-4731-9046-5541b5da5068)
 
 
-t the Research Paper and Conference
+## About the Research Paper and Conference
 This research paper, titled "Event-Driven-Cloud-Optimized-System-Design," was authored by me as part of the [14th Conference on Computer and Systems Engineering (CCSE) 2023](https://www1.tu-ilmenau.de/ccse2023/). Apart from contributing to the conference as the program chair, I took on the role of writing this paper. The CCSE conference is an integral part of the Research Skills subject[5 credits] in [Technische Universität Ilmenau's Research in Computer & Systems Engineering (M. Sc.) program](https://www.tu-ilmenau.de/studium/vor-dem-studium/studienangebot/masterstudiengaenge/research-in-computer-systems-engineering-m-sc). The conference was held on 8th February 2023.
 
 **Roles as Program Chair:**
